@@ -1,2 +1,2 @@
-# bootstrap-icon-selector
-Bootstrap Icon Selector
+# Bootstrap Icon Selector Concept
+
